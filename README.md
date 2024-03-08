@@ -6,3 +6,5 @@ This is code for a model deployed in V7 and excuted and test through the platfor
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)]([https://github.com/Pratyay-ops/Webscrapingshowcase/blob/main/LICENSE])
 [![Language](https://img.shields.io/badge/language-python-blue.svg)](https://golang.org/)
 
+This repo contains the section of code I have written in main project, which is temporarily private so for evalutation purposes.
+
